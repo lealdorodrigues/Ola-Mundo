@@ -1,2 +1,2 @@
-# Ola Mundo
- Pirmeiro repositório do curso
+# Olá, Mundo!
+ Pirmeiro repositório do curso de Git e Github.
